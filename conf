@@ -1,0 +1,2 @@
+log /tmp/repo-test.log
+data /tmp/repo-test.data
